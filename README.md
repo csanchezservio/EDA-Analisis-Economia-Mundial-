@@ -1,2 +1,3 @@
 # EDA-Analisis-Economia-Mundial-
 EDA The Bridge
+Proyecto creado como entregable en el bootcamp Data Scientist de The Bridge.El objetivo de este EDA, denominado "Análisis de la Economía Mundial" es el estudio de la Economía Mundial (EM). Para ello, en este proyecto se lleva a cabo el análisis de cinco variables interconectadas con la EM, a saber: corrupción, coste de la vida, riqueza nacional, turismo y tasa de desempleo. De un lado, se evalúa el potencial impacto, directo o indirecto, de estas variables con la economía de diferentes países. De otro lado, se exponen las fortalezas y debilidades del presente análisis.
